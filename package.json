@@ -1,0 +1,17 @@
+{
+  "name": "api-veiculos",
+  "version": "1.0.0",
+  "description": "API REST de Gerenciamento de Veículos (Node.js, Express e Knex)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "knex": "^3.1.0",
+    "pg": "^8.13.0"
+  }
+}
