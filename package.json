@@ -1,5 +1,6 @@
 {
   "name": "api-veiculos",
+  "author": "Raonny Alexandre",
   "version": "1.0.0",
   "description": "API REST de Gerenciamento de Veículos (Node.js, Express e Knex)",
   "main": "src/server.js",
